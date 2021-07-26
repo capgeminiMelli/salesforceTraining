@@ -1,0 +1,1 @@
+Apex managed sharing provides developers with the ability to support an application's particular sharing requirements programmatically through Apex or the SOAP API. This type of sharing is similar to managed sharing. 

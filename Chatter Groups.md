@@ -1,0 +1,3 @@
+# Create Chatter Groups
+
+Chatter is a great collaboration tool for your users. Through the use of Chatter groups, users can communicate and share. Chatter groups are classified as either public or private. Public means anyone can see and add posts, comments, and files. Anyone can join a public group. Private means only group members can see and add posts, comments, and files. People must ask the group's [owner or managers](https://help.salesforce.com/articleView?id=collab_group_roles_overview.htm&type=5) to join a private group. But first, the groups need to be created.

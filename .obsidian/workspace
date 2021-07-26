@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "322b73651600bc6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bef10ecd1e8af47",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Apex Unit Test.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e452adb9b3c8135",
+    "type": "split",
+    "children": [
+      {
+        "id": "0466e51b81ee177b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccebc60ac7ae3c3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f2c25ed6d58a93b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "da292adc1e757917",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eba8331f7ce8211",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b15950b7629da21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Apex Unit Test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2bef10ecd1e8af47",
+  "lastOpenFiles": [
+    "Apex Unit Test.md",
+    "Scheduled Apex.md",
+    "CRM.md",
+    "Salesforce.md",
+    "Customer 360.md",
+    "Queueable Apex.md",
+    "REST.md",
+    "Parent to CHildern Queries.md",
+    "SOQL.md",
+    "Buttons.md"
+  ]
+}

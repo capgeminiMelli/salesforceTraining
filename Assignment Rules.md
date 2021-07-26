@@ -1,0 +1,1 @@
+An assignment rule dictates to whom a lead or case is assigned based on criteria that is specified within salesforce. 

@@ -1,0 +1,11 @@
+At the end of a successful sale, you mark the Opportunity as Closed/Won. Your Salesforce admin can create a workflow rule to kick off an automated process that marks the Opportunity as Contracted and creates a Contract on your customer’s Account. The contract includes subscription records for any subscription-based products and keeps track of what products need to be renewed later on.
+
+Once you have a contract with your customer, Salesforce CPQ can easily handle updates to products included on that contract with an amendment. All the business logic you used during the original product selection also applies when you add or remove products from the contract. When you amend your customer’s contract, Salesforce CPQ creates a new quote and opportunity. On your new quote, the subscription products are priced according to how much time is left on the contract.
+
+## I’ll Take “Automate That Renewal” for $500, Alex
+
+Salesforce CPQ can automatically create renewal opportunities and quotes for subscription products before your customer’s contract ends. Your renewal opportunity contains all subscription items with quantities from the existing contract, and is automatically updated with additional subscription products if an amendment opportunity is marked as contracted.
+
+When your renewal opportunity is ready for a final quote, Salesforce CPQ can automate that too. The new quote pulls in all added subscription products and any updated pricing. After Salesforce CPQ creates the new quote, you can edit it and add more products or services if you want. Or, you can simply send the renewal quote out for your customer’s signature. Throughout this process, your renewal opportunity and quote populate any pipeline reports or forecasts maintained by Seamus on the sales operations side. He always has the most complete and up-to-date information.
+
+Find the right products, get the right prices, and put together a quote in minutes. Salesforce CPQ makes every step easier, so you and your sales team close deals faster. You can quote us on that.
