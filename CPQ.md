@@ -56,3 +56,7 @@ Salesforce CPQ may be the only CPQ solution on the market with the concept of ti
 In the Advanced Approvals and Advanced Order Management unit, you learned how Salesforce CPQ allows you to split orders off of a single quote so products and services are delivered across that same time period you set up.
 
 There's one more area where this concept of time is critical: renewal opportunities and quotes. Salesforce CPQ enables you to automate these as well. When renewals are in play, Salesforce CPQ automatically creates a renewal opportunity and quote so reps don't have to. On top of that, Salesforce sends the team a reminder when the renewal is coming up. All they have to do is jump into the new opportunity, ensure the data is correct (data is carried over from the original opportunity and quote), and then execute.
+
+### Further Reading
+[[ CPQ Lifecycle]]
+

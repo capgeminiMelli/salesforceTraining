@@ -8,3 +8,7 @@ CPQ product rules help ensure sales reps are putting together the right products
 
 ## Price Rules
 - Price rules will also contain price conditions. For instance, if you wanted to sell 2 ink cartridges with each printer, a price rule can ensure that if you increase the quantity of printers to 3, it will also increase the quantity of ink cartridges to 6.
+
+
+## Further Reading
+- [[CPQ Product Configuration]]

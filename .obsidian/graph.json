@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "test",
+  "search": "cpq",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -14,9 +14,9 @@
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
   "centerStrength": 0.452941176470588,
-  "repelStrength": 14.3921568627451,
+  "repelStrength": 20,
   "linkStrength": 0.471910112359551,
-  "linkDistance": 383,
-  "scale": 0.6925654839241759,
+  "linkDistance": 500,
+  "scale": 0.2513232665300656,
   "close": false
 }

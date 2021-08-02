@@ -13,3 +13,12 @@ A typical PDF quote contains
 Then you choose one of several ways to share the quote with your customer. Here’s a simple method: With the click of a button, send the quote as an email attachment using a standard Salesforce email template.
 
 Just remember: Salesforce CPQ can dynamically display several different pieces of information about your quote, quickly and easily, in a PDF document. And you can email that PDF to your customer like you would any other email attachment.
+
+## [[Price Waterfall]]
+ the pricing process that Salesforce CPQ follows to calculate the net price of a quote line from the list price. It also reviews the different types of discounts that sales reps can apply to quote lines.
+ 
+ In the imagine below notice how each price is a percent of that of the price above. 
+![[Pasted image 20210802162823.png]]
+
+## Seting up block pricing.
+

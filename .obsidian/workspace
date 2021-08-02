@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Apex Unit Test.md",
-            "mode": "preview"
+            "file": "Quote.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apex Unit Test.md",
+                "file": "Quote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "2bef10ecd1e8af47",
   "lastOpenFiles": [
+    "Quote.md",
+    "Product Rules.md",
+    "CPQ Product Configuration.md",
+    "CPQ.md",
+    "Acronymns.md",
+    "CPQ Lifecycle.md",
+    "Untitled 2.md",
+    "Visualforce.md",
     "Apex Unit Test.md",
-    "Scheduled Apex.md",
-    "CRM.md",
-    "Salesforce.md",
-    "Customer 360.md",
-    "Queueable Apex.md",
-    "REST.md",
-    "Parent to CHildern Queries.md",
-    "SOQL.md",
-    "Buttons.md"
+    "Scheduled Apex.md"
   ]
 }
