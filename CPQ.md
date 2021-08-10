@@ -14,6 +14,8 @@ And that’s what you get with Salesforce CPQ.
 
 Now let’s spell it out in detail.
 
+
+![An overview of the CPQ and Billing data flow.](https://resources.help.salesforce.com/images/bb04ee7d9f9922958836f4b43c4f5cf5.png)
 ### C Is for Configure
 
 You start by answering a few simple questions about your customer and what they’re looking for. For example, is your customer a commercial, government, or academic institution? Based on your answer to this and other questions specific to your sales process at Infinity Solutions, you see a tailored list of products. Salesforce CPQ uses smart rules to make sure you and your reps sell related products together \[1\] and to prevent incompatible products from ending up on the same quote.
@@ -57,6 +59,8 @@ In the Advanced Approvals and Advanced Order Management unit, you learned how Sa
 
 There's one more area where this concept of time is critical: renewal opportunities and quotes. Salesforce CPQ enables you to automate these as well. When renewals are in play, Salesforce CPQ automatically creates a renewal opportunity and quote so reps don't have to. On top of that, Salesforce sends the team a reminder when the renewal is coming up. All they have to do is jump into the new opportunity, ensure the data is correct (data is carried over from the original opportunity and quote), and then execute.
 
-### Further Reading
-[[ CPQ Lifecycle]]
 
+### Further Reading
+- [[Orders]]
+- [[Plugins]]
+- [[Calculator Plugin]]

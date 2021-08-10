@@ -14,11 +14,25 @@ Then you choose one of several ways to share the quote with your customer. Hereâ
 
 Just remember: Salesforce CPQ can dynamically display several different pieces of information about your quote, quickly and easily, in a PDF document. And you can email that PDF to your customer like you would any other email attachment.
 
-## [[Price Waterfall]]
- the pricing process that Salesforce CPQ follows to calculate the net price of a quote line from the list price. It also reviews the different types of discounts that sales reps can apply to quote lines.
- 
- In the imagine below notice how each price is a percent of that of the price above. 
-![[Pasted image 20210802162823.png]]
+### Quote Documents
 
-## Seting up block pricing.
+Quote documents can be previewed on indiviual quotes
 
+You can enable
+- custom logo to the header
+- Watermark's on the image
+- Add additional documents
+
+### Quote Templates
+A template can be divided into individual sections and can print fields. 
+- **Line Columns** can be used to print individual columns. 
+	- use the `Conditional Print Field` Column option field to display information on the quote pdf. 
+
+### Quote Terms
+A `Quote Term` Object is an object that can be related to a Quote Template. It allows the quote to specify the terms of the contract. 
+
+
+## Further Reading
+- [[Pricing Options]]
+- [[Subscriptions]]
+- [[price rules]]

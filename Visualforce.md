@@ -8,3 +8,9 @@ Before we look at an example, it’s important to talk about the difference betw
 ## ASP.NET to Visualforce
 
 Visualforce is a framework for rendering HTML pages using an MVC paradigm. Now before you get all excited and start thinking, “Cool, Visualforce is like ASP.NET MVC. I love MVC.”, keep in mind that comparing the two is a bit like comparing apples and pumpkins. You can use either one to render web pages, and both separate the application logic from the markup and the database model, but they do so in different ways.
+
+## Where You Can Use Visualforce
+
+Salesforce provides a range of ways that you can use Visualforce within your organization. You can extend Salesforce’s built-in features, replace them with new functionality, and build completely new apps.
+
+The following are some of the ways you can add Visualforce to your organization. Remember that these screenshots are showing examples and don't reflect the custom pages and apps in your org.
