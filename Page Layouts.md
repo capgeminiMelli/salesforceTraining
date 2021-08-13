@@ -28,4 +28,5 @@ Jakes interpretation: customize the fields (attributes) that are able to be seen
 [[Buttons]]
 [[Quick Actions]]
 [[Compact Layouts]]
+[[List View]]
 

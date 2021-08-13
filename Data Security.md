@@ -45,3 +45,5 @@ And if so, wouldn’t it be great for each salesperson to know what other deals 
 [[ Apex sharing]]
 
 [[ GDPR ]]
+
+[[ Audit Trails]]

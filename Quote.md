@@ -32,6 +32,11 @@ A template can be divided into individual sections and can print fields.
 A `Quote Term` Object is an object that can be related to a Quote Template. It allows the quote to specify the terms of the contract. 
 
 
+### Quote Organization, Adding Products
+When adding products to a quote, enable `Product Resutls Group Field Name` in the package settings to group products by a field.
+![[Pasted image 20210812142151.png]]
+
+
 ## Further Reading
 - [[Pricing Options]]
 - [[Subscriptions]]

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quote.md",
+            "file": "Configuration attribute.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "da292adc1e757917",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quote.md",
+                "file": "Configuration attribute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "2bef10ecd1e8af47",
   "lastOpenFiles": [
+    "Configuration attribute.md",
+    "Product Bundles.md",
+    "Option constraints.md",
     "Quote.md",
+    "Audit Trails.md",
+    "Data Security.md",
     "Product Rules.md",
-    "CPQ Product Configuration.md",
     "CPQ.md",
-    "Acronymns.md",
-    "CPQ Lifecycle.md",
-    "Untitled 2.md",
-    "Visualforce.md",
-    "Apex Unit Test.md",
-    "Scheduled Apex.md"
+    "CPQ Page Layouts.md",
+    "Queueable Apex.md"
   ]
 }

@@ -14,6 +14,24 @@ You know the saying that you should judge someone only by their actions? That’
 
 Actions let your users quickly do tasks, such as create records, log calls, send emails, and more. With custom actions, you can make your users’ navigation and workflow as smooth as possible by giving them quick access to information that’s most important.
 
+
+
+## Object Specific Quick Action
+- Automatically associated with related records
+- Can be found on the record detail page of a specific object
+- Create Actions, Log a call, update actions, custom Actions.
+- 
+
+
+## Global Quick Actions
+- Global actions are actions that can be added to any page that supports actions.
+	-	Record Creation (Creation of object records)
+	-	Object relationship (THis is no automatic relationship between the record and any other record)
+	-	available from the home page, chatter, object pages, and lightning app pages
+	-	global actions are defined in setup > Global Actions
+	-	Create a record, send email, log a call, custom visualforce, custom canvas, and custom ligntning component. 
+
+
 ## Add an Object-Specific Action to a [[Page Layouts]]
 
 To make the New Energy Audit action available to users from an account record, Maria must add the action to the Account page layout.

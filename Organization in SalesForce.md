@@ -36,3 +36,5 @@ It’s hard to actively manage an account if it’s assigned to someone who isn�
 Keep your records updated
 
 Use features like Social Accounts, Contacts, and Leads, and Data.com to gather up-to-date information. Make it a policy that all updated data is entered into Salesforce.
+
+[[ Organization Settings]]

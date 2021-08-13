@@ -1,0 +1,12 @@
+# Company info
+- Name
+- Fiscal Year 
+- Multiple currencies
+- Newsletter
+- Default Locale
+- Default Time Zone
+- Corpporate Currency
+- Used Data Space
+- Used File Space
+- API REquests
+- 

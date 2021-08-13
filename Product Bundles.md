@@ -1,5 +1,16 @@
 *Options are the glue that holds together the lead product with all of the followers, like the laser printer and its accessories.*
 
+### Bundle Contents
+A bundle product contains several records.
+
+-   **A bundle parent**: The parent product is the bundle itself.
+-  **Options**: These products in the bundle contribute to the bundle price. You can consider these children of the bundle parent. An option doesn’t contribute to the bundle price if you select its Bundled checkbox.
+-   **Features:** A feature is a group of options. You can use the Min Options and Max Options fields to define selection restrictions for objects in the same feature, such as “pick one or more” or “pick 3 of 5.”
+-   **[[Option constraints]]**: Use constraints to control how users select options together.
+-   **[[Configuration attribute]]**: A field and picklist shown above or below the list of product options. This field targets all options containing the same field and applies its value to all those fields.
+
+
+
 ## Bundles of All Shapes and Sizes
 
 Creating a quote means choosing products, and some products must be sold with other products. This fact brings us to a central concept in Salesforce CPQ: the bundle. A bundle is simply a group of products we know should be sold together. When the sales rep chooses to sell the bundle, all the related products come along for the ride. There are three types of bundles. We use a food analogy to describe each type.
@@ -30,12 +41,18 @@ If you don’t want product names to be indented, just uncheck that setting. The
 Simply add 'options' to an existing product
 
 
-## Option Type
+### Option Type
 
 When you build a bundle, one of the most important things to decide is how to handle option quantity while on the Quote Line Editor. Sales reps can typically change quantity on the Quote Line Editor, but if you’re trying to control quantities within the bundle you may not want them to make changes. The Option Type field on the option tells Salesforce CPQ exactly what to do with quantity.
 
-In the table, you can see that even though the quantity of the option is always 2, and the quantity of the bundle is always 3, the quantity of the quote line behaves differently for every Option Type.
+In the table, you can see that even though the quantity of the option is always 2, and the quantity of the bundle is always 3, the quantity of the quote line behaves differently for every Option Type. 
 
+### Product Features
+So you made a bunch of Product Options, and now you have a bundle! However, for the sales rep, this could look pretty daunting the bundle is huge. Wouldn't it be great if there were away to categorize your various product options? 
+
+This is where product Features come into play. The feature object is related to products, and it "sits" within bundles. **They are categories of products within a configuration, or better said: categories of options within a bundle.** A bundle can have multiple Features (or none whatsoever because Features are not mandatory) and a Feature can have multiple Options.
+
+The featu
 
 
 ## Configured Code

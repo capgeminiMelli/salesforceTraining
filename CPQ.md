@@ -64,3 +64,5 @@ There's one more area where this concept of time is critical: renewal opportunit
 - [[Orders]]
 - [[Plugins]]
 - [[Calculator Plugin]]
+- [[ CPQ Package Config]]
+- [[CPQ Page Layouts]]

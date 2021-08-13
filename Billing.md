@@ -24,3 +24,19 @@ First, let’s discuss the opportunities this type of platform offers.
 Let’s take a look at the generation of invoices and see how this concept applies. With Salesforce Billing, there are a lot of things at your fingertips that enable you to bill customers appropriately, at the right time. Here are some of our favorites.![[Pasted image 20210806132927.png]]
 
 ![[Pasted image 20210806133125.png]]
+
+
+## Billing Dates
+
+Salesforce Billing drives the invoicing process by evaluating the order product’s Next Billing Date field and the invoice’s Target Date field. As you’ve learned, when a user, workflow, or invoice scheduler invoices an order, the invoice includes active order products with a next billing date on or before the invoice record’s target date.
+
+Salesforce Billing uses the order product’s Charge Type, Billing Type, and Billing Frequency fields to calculate the order product’s next billing date and invoice’s target date. Admins define the time fields on the product. Quote lines inherit these field values from the product, and order products inherit the field values from the quote line. (If you update the billing type or billing frequency after invoicing, Salesforce Billing updates the order product’s next billing date and billable unit price accordingly.)
+
+The order and order product’s Start Date fields and the order’s Billing Day of Month field are also used to calculate the next billing date of the order product.
+
+Order Start Date Salesforce CPQ (Configure, Price, Quote) admins use CPQ package settings to control when orders start: on the day the order record is created, on the start date of the order’s parent quote, or on a date determined by an order management plug-in. Order Product Start Date
+
+-   For one-time order products, the order product’s start date equals the order’s start date plus the difference between the quote’s start date and the quote line’s start date.
+-   For recurring order products, the order product’s start date equals the quote line’s start date by default. Billing admins can change the order product’s start date to a later date.
+
+Billing Day of Month If **Align Billing Day of Month to Order Start Date** is enabled (in Salesforce Billing package settings), then your billing day of month matches the day of your order start date by default, though sales reps can also edit it on unactivated orders. Otherwise, sales reps must set the billing day of month when they order from a quote.
