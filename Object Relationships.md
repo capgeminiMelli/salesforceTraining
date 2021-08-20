@@ -26,9 +26,15 @@ In our Account to Contact example above, the relationship between the two object
 
 Lookup relationships can be one-to-one or one-to-many. The Account to Contact relationship is one-to-many because a single account can have many related contacts. For our DreamHouse scenario, you could create a one-to-one relationship between the Property object and a Home Seller object.
 
+Can be one-to-one, one-to-many, self, external, indirect, or hierarchial
+
 **Master-Detail Relationships**
 
 While lookup relationships are fairly casual, **master-detail relationships** are a bit tighter. In this type of relationship, one object is the master and another is the detail. The master object controls certain behaviors of the detail object, like who can view the detail’s data.
+
+Can be one-to-one, one-to-many ,or many-to-many
+
+**Standard Objects must be the parent, if related to custom objects. **
 
 ## Create a **Lookup Relationship**
 

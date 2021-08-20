@@ -6,9 +6,7 @@ We know that looking at all your data at once can seem overwhelming. That’s wh
 
 That’s the basic idea behind data modeling. **In Sales Cloud, your data models rely on two essential elements: objects and fields. These objects and fields store and organize data**.
 
-## 
-
-What’s a Standard Object?
+## What’s a Standard Object?
 
 An object is a home for your data. Think of an object as a form you’d use to collect and store crucial info on a specific topic that is relevant and actionable for your business. Standard objects are a set of objects that come already set up for you in Sales Cloud. (We talk more about a few of these objects are in the next unit.) 
 
@@ -28,7 +26,7 @@ Let’s take a look at four essential objects in Sales Cloud that help sales use
 
 As you set up the fields for your objects, you determine the information that will be collected each time a sales rep logs a new **record** related to an object. (For instance, when they identify a new lead.)
 
-**Leads** represent potential sales opportunities or new customers. They can come from a wide range of sources—the web, a list of conference attendees, the business cards your team accumulates, research, and so forth. Leads contain the basic customer contact info your team needs to follow up. Your team determines at what point a lead is qualified and ready to be converted into an active deal.
+**[[Leads]]** represent potential sales opportunities or new customers. They can come from a wide range of sources—the web, a list of conference attendees, the business cards your team accumulates, research, and so forth. Leads contain the basic customer contact info your team needs to follow up. Your team determines at what point a lead is qualified and ready to be converted into an active deal.
 
 **Accounts** represent the companies you do business with. They’re the heart of your business data. They’ll be at the center of your object relationships as you do more business with a customer over time.
 

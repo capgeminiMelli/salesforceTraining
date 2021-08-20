@@ -40,3 +40,8 @@ Order Start Date Salesforce CPQ (Configure, Price, Quote) admins use CPQ package
 -   For recurring order products, the order product’s start date equals the quote line’s start date by default. Billing admins can change the order product’s start date to a later date.
 
 Billing Day of Month If **Align Billing Day of Month to Order Start Date** is enabled (in Salesforce Billing package settings), then your billing day of month matches the day of your order start date by default, though sales reps can also edit it on unactivated orders. Otherwise, sales reps must set the billing day of month when they order from a quote.
+
+
+### Further Reading
+[[ Tax Integration]]
+[[ Consumption Usage Implementation]]

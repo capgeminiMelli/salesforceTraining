@@ -17,6 +17,7 @@ A hybrid is somewhere in the middle of these two models. How you configure your 
 Once you start learning about Security, you’ll hear a great deal about profiles. The profile that is assigned to you determines many things, including Object access. Do you have groups of people in a similar job function who have common data access needs? Maybe salespeople need access to opportunities, or service representatives need access to cases. Profiles can help you classify access requirements to different types of users.
 
 ### Permission Sets
+*Permission sets are used to expand user privledges beyond what their profile allows*
 
 These are additive permissions on top of your profile. You may have zero permission sets or you may have 10 or more. You may have a salesperson with a sales profile who, unlike other sales representatives, needs to have access to a specific object. Permission sets are like the word “and.” Here, you’d give the salesperson permissions for the Sales profile **_and_** something else.
 
@@ -47,3 +48,7 @@ And if so, wouldn’t it be great for each salesperson to know what other deals 
 [[ GDPR ]]
 
 [[ Audit Trails]]
+
+[[ Public Groups]]
+
+[[Data Types ]]

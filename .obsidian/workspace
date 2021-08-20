@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Configuration attribute.md",
-            "mode": "source"
+            "file": "CPQ.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "da292adc1e757917",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration attribute.md",
+                "file": "CPQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "2bef10ecd1e8af47",
   "lastOpenFiles": [
-    "Configuration attribute.md",
-    "Product Bundles.md",
-    "Option constraints.md",
-    "Quote.md",
-    "Audit Trails.md",
-    "Data Security.md",
-    "Product Rules.md",
     "CPQ.md",
-    "CPQ Page Layouts.md",
-    "Queueable Apex.md"
+    "Page Layouts.md",
+    "Data Types.md",
+    "Data Security.md",
+    "Object Relationships.md",
+    "Public Groups.md",
+    "Record-Level Security.md",
+    "WorkFlow Actions.md",
+    "Consumption Usage Implementation.md",
+    "Billing.md"
   ]
 }

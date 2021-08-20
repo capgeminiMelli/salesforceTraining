@@ -100,6 +100,8 @@ Latest Innovative tech bby
 	- Escalation Rules
 	- Parent Roll-up Summary field
 	- Criteria-Based Sharing Evaluation.
-	
-	
-	
+
+
+# Certification Tracker
+
+![[Pasted image 20210816120830.png]]

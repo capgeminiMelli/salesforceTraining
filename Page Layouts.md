@@ -24,6 +24,13 @@ The page layout editor has two basic parts: a palette on the upper portion of th
 
 Jakes interpretation: customize the fields (attributes) that are able to be seen about an object. 
 
+### Mini-Page Layout
+The mini page layout controls the fields that are displayed when hovering over a record. 
+
+![[Pasted image 20210819151940.png]]
+
+
+
 
 [[Buttons]]
 [[Quick Actions]]
